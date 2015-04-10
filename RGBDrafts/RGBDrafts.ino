@@ -1,17 +1,7 @@
 /*
 
-
-Color Crossfader tutorial
-http://arduino.cc/en/Tutorial/ColorCrossfader
-April 2007, Clay Shirky <clay.shirky@nyu.edu> 
-Creative Commons Attribution ShareAlike 3.0.
-http://creativecommons.org/licenses/by-sa/3.0/
-
-Adafruit Arduino - Lesson 3. RGB LED
 Pierre
 Last updated on 2014-04-10
-http://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/arduino-sketch
-
 
 */
 
