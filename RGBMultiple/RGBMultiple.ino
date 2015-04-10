@@ -1,7 +1,7 @@
 /*
 Flashing RGB leds
 
-BASED ON:
+
 
 Color Crossfader tutorial
 http://arduino.cc/en/Tutorial/ColorCrossfader
